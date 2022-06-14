@@ -13,13 +13,13 @@ server.listen()
 list_of_clients = []
 
 questions = [
-     "what is han jisung's english name \n a.peter\n b.chris\n c.bob\n d.sam",
-     "who is the main vocalist of dreamcatcher \n a.lee siyeon\n b.jeon soyeon\n c.kim siyoon\n d.ah sullyoon",
-     "who did the whisper in ateez's to the beat \n a.seonghwa\n b.hongjoong\n c.yunho\n d.san",
-     "what was the first group i stanned \n a.blackpink\n b.stray kids\n c.dreamcatcher\n d.ateez"
+     "what is slay \n a.slay\n b.sla\n c.sl\n d.s",
+     "who is slay \n a.me\n b.not me\n c.mee\n d.k",
+     "where is slay \n a.doze\n b.deez\n c.deirz\n d.demz",
+     "how is slay \n a.how you like that\n b.how\n c.how\n d.deez nuts"
 ]
 
-answers = ['a', 'a', 'b', 'a']
+answers = ['a', 'a', 'b', 'd']
 
 print("vroom vroom...")
 
